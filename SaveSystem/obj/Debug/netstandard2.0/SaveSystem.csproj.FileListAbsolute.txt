@@ -1,0 +1,12 @@
+D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\SaveSystem\bin\Debug\netstandard2.0\SaveSystem.deps.json
+D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\SaveSystem\bin\Debug\netstandard2.0\SaveSystem.dll
+D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\SaveSystem\bin\Debug\netstandard2.0\SaveSystem.pdb
+D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\SaveSystem\bin\Debug\netstandard2.0\Wrappers.dll
+D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\SaveSystem\bin\Debug\netstandard2.0\Wrappers.pdb
+D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\SaveSystem\obj\Debug\netstandard2.0\SaveSystem.csproj.AssemblyReference.cache
+D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\SaveSystem\obj\Debug\netstandard2.0\SaveSystem.AssemblyInfoInputs.cache
+D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\SaveSystem\obj\Debug\netstandard2.0\SaveSystem.AssemblyInfo.cs
+D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\SaveSystem\obj\Debug\netstandard2.0\SaveSystem.csproj.CoreCompileInputs.cache
+D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\SaveSystem\obj\Debug\netstandard2.0\SaveSystem.csproj.CopyComplete
+D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\SaveSystem\obj\Debug\netstandard2.0\SaveSystem.dll
+D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\SaveSystem\obj\Debug\netstandard2.0\SaveSystem.pdb

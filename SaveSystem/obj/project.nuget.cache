@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E1nA4IxhU9XD1WryTdkkrZZOdaikKIKWR616cft3cqU5ciNp6WvmVfI9wqpGAk9wMWUf8TS3HdVtjE4BeZiB1Q==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Isaac\\Personal\\GameDev\\DudCo\\SaveSystem\\SaveSystem\\SaveSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isaac\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\isaac\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Wrappers">
+      <HintPath>..\..\Wrappers\bin\Release\netstandard2.0\Wrappers.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
