@@ -1,11 +1,10 @@
-﻿using DudCo.Wrappers;
-
-namespace DudCo.SaveSystems
+﻿namespace DudCo.SaveSystems
 {
     public abstract class SaveDataSerializer : ISaveDataSerializer
     {
         public uint ID { get; set; }
         public ushort Version { get; set; }
+        protected ushort SavedVersion { get; private set; }
 
         protected SaveDataSerializer (uint ID, ushort version)
         {
@@ -21,7 +20,7 @@ namespace DudCo.SaveSystems
         public virtual bool Load(IReader reader)
         {
             //ID has been read allready by the savesystem
-            ushort savedVersion = reader.ReadUInt16();
+            SavedVersion = reader.ReadUInt16();
             return true;
         }
     }

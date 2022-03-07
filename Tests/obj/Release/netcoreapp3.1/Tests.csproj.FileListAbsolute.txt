@@ -89,9 +89,7 @@ D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\Tests\bin\Release\netcoreapp3.1
 D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\Tests\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\Tests\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\Tests\bin\Release\netcoreapp3.1\SaveSystem.dll
-D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\Tests\bin\Release\netcoreapp3.1\Wrappers.dll
 D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\Tests\bin\Release\netcoreapp3.1\SaveSystem.pdb
-D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\Tests\bin\Release\netcoreapp3.1\Wrappers.pdb
 D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\Tests\obj\Release\netcoreapp3.1\Tests.csproj.AssemblyReference.cache
 D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\Tests\obj\Release\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
 D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\Tests\obj\Release\netcoreapp3.1\Tests.AssemblyInfo.cs
@@ -100,3 +98,4 @@ D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\Tests\obj\Release\netcoreapp3.1
 D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\Tests\obj\Release\netcoreapp3.1\Tests.dll
 D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\Tests\obj\Release\netcoreapp3.1\Tests.pdb
 D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\Tests\obj\Release\netcoreapp3.1\Tests.genruntimeconfig.cache
+D:\Users\Isaac\Personal\GameDev\DudCo\SaveSystem\Tests\obj\Release\netcoreapp3.1\Tests.GeneratedMSBuildEditorConfig.editorconfig

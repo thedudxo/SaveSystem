@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LCeF9S9w6C+u5hcJ9hsVi6CSZJ/NaVBkHEXtnWzRF+//YCLz3fc9gELe4vfnfjM8cx6C88S2sgv9syffD/Vexg==",
+  "dgSpecHash": "2TpNeIHqN4AZtp4ymF2Rs6pXXxtQJXUczYrtb1UR0EGlkkwWQa0kdt8KOq3SsJFxGuZmdNdpxYpPJzTZPcvXEA==",
   "success": true,
   "projectFilePath": "D:\\Users\\Isaac\\Personal\\GameDev\\DudCo\\SaveSystem\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
@@ -67,7 +67,10 @@
     "C:\\Users\\isaac\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
     "C:\\Users\\isaac\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\isaac\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\isaac\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\isaac\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\isaac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\isaac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\isaac\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

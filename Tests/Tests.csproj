@@ -20,9 +20,6 @@
     <Reference Include="netstandard">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.1.16f1\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>
     </Reference>
-    <Reference Include="Wrappers">
-      <HintPath>..\..\Wrappers\bin\Release\netstandard2.0\Wrappers.dll</HintPath>
-    </Reference>
   </ItemGroup>
 
 </Project>

@@ -1,6 +1,8 @@
-﻿namespace Tests.SaveSystems
+﻿using DudCo.SaveSystems;
+
+namespace Tests.SaveSystems
 {
-    class MockFile : DudCo.Wrappers.IWrappedFile
+    class MockFile : IWrappedFile
     {
         public bool doesExist = true;
         public bool Exists(string file) => doesExist;

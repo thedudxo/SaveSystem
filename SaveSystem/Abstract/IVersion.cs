@@ -1,7 +1,4 @@
-﻿using System.IO;
-using DudCo.Wrappers;
-
-namespace DudCo.SaveSystems
+﻿namespace DudCo.SaveSystems
 {
     public interface IVersionReader
     {

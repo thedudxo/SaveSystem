@@ -11,8 +11,7 @@
           "Microsoft.NET.Test.Sdk": "16.11.0",
           "NUnit": "3.13.2",
           "NUnit3TestAdapter": "3.17.0",
-          "SaveSystem": "1.0.0",
-          "Wrappers": "1.0.0.0"
+          "SaveSystem": "1.0.0"
         },
         "runtime": {
           "Tests.dll": {}
@@ -873,14 +872,6 @@
         "runtime": {
           "SaveSystem.dll": {}
         }
-      },
-      "Wrappers/1.0.0.0": {
-        "runtime": {
-          "Wrappers.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
@@ -1340,11 +1331,6 @@
     },
     "SaveSystem/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Wrappers/1.0.0.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }
